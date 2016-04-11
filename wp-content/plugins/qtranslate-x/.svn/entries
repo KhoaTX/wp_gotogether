@@ -1,0 +1,63 @@
+10
+
+dir
+0
+http://172.16.1.61/repos/restaurant/wp-content/plugins/qtranslate-x
+http://172.16.1.61/repos/restaurant
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+eaf6677a-3476-4946-97fc-8358acba7099
+
+admin
+dir
+
+
+
+add
+
+flags
+dir
+
+
+
+add
+
+i18n-config
+dir
+
+
+
+add
+
+inc
+dir
+
+
+
+add
+
+lang
+dir
+
+
+
+add
+

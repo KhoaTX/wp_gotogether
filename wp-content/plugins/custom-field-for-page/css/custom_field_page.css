@@ -1,0 +1,24 @@
+.custom-field-page .label label {
+	cursor: pointer;
+}
+
+.custom-field-page .item {
+	margin: 10px 0;
+}
+
+.custom-field-page .label {
+	width: 24%;
+}
+
+.custom-field-page .input {
+	width: 75%;
+}
+
+.custom-field-page .input input {
+	width: 80%;
+}
+
+.custom-field-page .input, .custom-field-page .label {
+	display: inline-block;
+	vertical-align: top;
+}
